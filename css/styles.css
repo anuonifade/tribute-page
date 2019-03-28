@@ -5,12 +5,26 @@
 .caption {
   padding: 2rem;
   position: absolute;
-  margin-top: 10rem;
+  margin-top: 20rem;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
   color: #ffffff;
-  max-width: 700px;
+  max-width: 900px;
+  font-size: 1.5rem;
 }
 
 .tribute-info {
   margin-top: 5rem;
 }
 
+h1 {
+  font-weight: 500;
+  color: #016400;
+}
+
+.image {
+  margin-left: auto;
+  margin-right: auto;
+}
