@@ -1,0 +1,19 @@
+.img-div {
+  position: relative;
+}
+
+.caption {
+  padding: 2rem;
+  position: absolute;
+  margin-top: 10rem;
+  color: #ffffff;
+  max-width: 700px;
+}
+
+.tribute-info {
+  margin-top: 5rem;
+}
+
+.image {
+  margin: auto;
+}
